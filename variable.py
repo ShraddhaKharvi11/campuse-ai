@@ -30,4 +30,3 @@ is_married=False
 print("Hi",name)
 print("I am",age," year old")
 print("My height is",height,"feet")
-print()
