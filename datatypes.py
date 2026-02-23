@@ -31,6 +31,24 @@ print("Subtraction ",a-b)
 print("Multiplication ",a*b)
 print("Division ",a/b)
 print("Modulus ",a%b)
-print("Exponentional ",a**b)
-#Boolean
+print("Exponentional ",round(a**b))
+
 #floats
+price=20.09
+pi=3.14285
+temp=99.8
+
+total=price*1.5
+print(total)
+
+print(type(price))
+print(round(0.1+2.2,2))
+#Boolean
+
+is_raining=False
+is_holiday=False
+age=10
+
+is_adult=age>=18
+
+print(is_adult)
