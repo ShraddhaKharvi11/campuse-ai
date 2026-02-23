@@ -21,3 +21,13 @@ d=e=f="Dennis",12,"You"
 print(d)
 print(e)
 print(f)
+
+name="Shraddha"
+age=21
+height=5.6
+is_married=False
+
+print("Hi",name)
+print("I am",age," year old")
+print("My height is",height,"feet")
+print()
