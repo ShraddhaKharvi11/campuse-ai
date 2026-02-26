@@ -57,5 +57,45 @@ squares=[i**2 for i in range(1,6)]
 print(squares)
 
 #Tuples
+# It is immutable
+coorinates=(10,20)
+person=("Kavya",21,"Chitradurga")
+print(person[2])
+
+name,age,district=person
+
+print(f"I am {name}, from {district},I am {age} years old")
 #Dictionaries
+mathClass={}
+student={"name":"Shraddha","age":25,"grade":"A",
+         "course":["Math","Science","Social science"],}
+#print(student["name"])
+#print(student.get("phone"))
+#print(student.get("phone","User's phone number doesn't exists"))
+student['phone']='8967543567'
+#print(student.get("phone","User's phone number doesn't exists"))
+student['age']=26
+#print(student)
+
+#student.pop('grade')
+#print(student)
+
+#for key in student:
+#    print(f"{key}:{student[key]}")
+
+for key,value in student.items():
+    print(f"{key}:{value}")
+
 #Sets
+
+empty_set=set()
+
+numbers=[1,2,3,4,88,99,22,2,3,44,33,22,44,99,1,5,5,4,6]
+unique_number=set(numbers)
+
+print(numbers)
+print(unique_number)
+
+unique_number.add(100)
+unique_number.discard(88)
+print(unique_number)
