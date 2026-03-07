@@ -30,7 +30,7 @@
 
 try:
     with open("students_new","r") as file:
-        content=file.read():
+        content=file.read()
 
 except FileNotFoundError:
     print("File Not Found")
