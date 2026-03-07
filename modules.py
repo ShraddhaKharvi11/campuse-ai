@@ -10,5 +10,5 @@ import datetime
 print(datetime.datetime.now())
 
 import os
-print(os.getcwd())
+print(os.getcwd()) #getcwd=get current working directory
 
