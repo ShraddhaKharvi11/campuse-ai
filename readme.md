@@ -51,3 +51,5 @@ def hello():
 | id | Topic name | File Link |
 | ---- | --------- | ---------- |
 | 1 | intro | Link |
+
+[variables](python-basics/variables.py)
