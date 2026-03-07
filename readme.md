@@ -30,5 +30,13 @@
 
 [Campuspe_login](https://campuspe/student/login "Click to login Campuspe Student Portal") 
 
+# Coding Block
 
+``` python
+def hello():
+    print("Hello World")
+```
+
+# Images
+![Campuspe_Logo](https://campuspe.com/logo1.svg)
 
