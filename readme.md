@@ -1,4 +1,5 @@
-[CampuspeLog](https://campuspe.com/logo1.svg)
+![CampuspeLog](https://campuspe.com/logo1.svg)
 
 Generative AI Internship
+
 
