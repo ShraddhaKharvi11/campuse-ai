@@ -15,6 +15,7 @@ A isolated Python Environment that lets you:
 Sentiment Analyser- TensorFlow 2.10
 Sentiment classifier- TensorFlow 2.12
 
+```
 2. Commands to Run env
 ```
 cd project-name
